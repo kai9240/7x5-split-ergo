@@ -8,8 +8,11 @@ Build info
    - 1N4148 diodes x70
    - PJ-320A TRRS Sockets x2
    - PLA & PETG Filament (for case)
-   - 1.8mm LEDs
+   - 1.8mm LEDs x18
    - Kailh Hotswap sockets x70
    - Rubber feet x4
    - TRRS Cable
    - m2 screws/nuts
+
+# Build 
+ The step_files.zip contains the step files for the enclosure.
