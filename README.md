@@ -12,5 +12,4 @@ Build info
    - Kailh Hotswap sockets x70
    - Rubber feet x4
    - TRRS Cable
-
-# Build
+   - m2 screws/nuts
