@@ -15,5 +15,5 @@ Build info
    - m2 screws/nuts
 
 # Files
- The step_files.zip contains the step files for the enclosure.  
+ The step_files.zip contains the step files for the enclosure.\
  The 7x5_Gerber.zip contains the necessary files for PCB manufacturing (I used JLCPCB). 
