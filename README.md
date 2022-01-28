@@ -2,7 +2,7 @@
 
 ![7x5_ergo](https://i.redd.it/55oxngfmiod81.jpg)
 
-This was my first 7x5 ergo build with staggered columns and hotswap sockets.\
+This was my first 7x5 ergo build with staggered columns and hotswap sockets.
 
 # Parts
    - 7x5_ergo PCB x2
