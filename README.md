@@ -1,5 +1,5 @@
 # 7x5-split-ergo
-![7x5_ergo](https://i.redd.it/55oxngfmiod81.jpg)
+
 Build info 
 
 # Parts
