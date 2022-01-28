@@ -2,6 +2,8 @@
 
 ![7x5_ergo](https://i.redd.it/55oxngfmiod81.jpg)
 
+This was my first 7x5 ergo build with staggered columns and hotswap sockets.\
+
 # Parts
    - 7x5_ergo PCB x2
    - USB C Pro micro x2 (I used [this](https://www.aliexpress.com/item/32768308647.html?spm=a2g0o.productlist.0.0.5b4af202azcUkJ&algo_pvid=4d3dc589-608c-4547-bc4f-21e3caa173ed&algo_exp_id=4d3dc589-608c-4547-bc4f-21e3caa173ed-8&pdp_ext_f=%7B%22sku_id%22%3A%2212000024349272663%22%7D&pdp_pi=-1%3B4.72%3B-1%3B-1%40salePrice%3BUSD%3Bsearch-mainSearch))
