@@ -1,6 +1,6 @@
 # 7x5-split-ergo
 
-Build info 
+![7x5_ergo](https://i.redd.it/55oxngfmiod81.jpg)
 
 # Parts
    - 7x5_ergo PCB x2
